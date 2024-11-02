@@ -1,7 +1,9 @@
 # 👋 Hi, I'm Hasib Ahamed Sakib
 
 
-![Profile Banner](https://i.ibb.co/S6qdkj6/1721030069000.jpg)
+<p align="center">
+  <img src="https://i.ibb.co/S6qdkj6/1721030069000.jpg" width="300" height="300" style="border-radius: 50%; border: 2px solid green;" alt="Profile Banner">
+</p>
 
 **Fullstack Web Developer | Passionate Problem Solver | Lifelong Learner**  
 📍 Uttara, Dhaka.
