@@ -2,7 +2,7 @@
 
 
 <p align="center">
-  <img src="https://i.ibb.co/S6qdkj6/1721030069000.jpg" width="200" height="200" alt="Profile Banner">
+  <img src="https://i.ibb.co.com/yFqLx4p/Pink-And-Green-Motivation-Quote-Linked-In-Banner-8.png" alt="Profile Banner" />
 </p>
 
 **Fullstack Web Developer | Passionate Problem Solver | Lifelong Learner**  
