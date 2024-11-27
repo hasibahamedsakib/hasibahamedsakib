@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://i.ibb.co.com/yFqLx4p/Pink-And-Green-Motivation-Quote-Linked-In-Banner-8.png" alt="Profile Banner" />
+  <img src="https://i.ibb.co.com/FDtPC7Y/Pink-And-Green-Motivation-Quote-Linked-In-Banner-5.png" alt="Profile Banner" />
 </p>
 
 # 👋 Hi, I'm Hasib Ahamed Sakib
