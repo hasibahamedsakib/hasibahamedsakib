@@ -1,9 +1,8 @@
-# 👋 Hi, I'm Hasib Ahamed Sakib
-
-
 <p align="center">
   <img src="https://i.ibb.co.com/yFqLx4p/Pink-And-Green-Motivation-Quote-Linked-In-Banner-8.png" alt="Profile Banner" />
 </p>
+
+# 👋 Hi, I'm Hasib Ahamed Sakib
 
 **Fullstack Web Developer | Passionate Problem Solver | Lifelong Learner**  
 📍 Uttara, Dhaka.
