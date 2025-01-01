@@ -5,7 +5,7 @@
 # 👋 Hi, I'm Hasib Ahamed Sakib
 
 **Fullstack Web Developer | Passionate Problem Solver | Lifelong Learner**  
-📍 Uttara, Dhaka.
+📍 Uttara, Dhaka, Bangladesh.
 
 ---
 
