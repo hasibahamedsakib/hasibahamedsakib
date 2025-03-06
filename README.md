@@ -31,9 +31,14 @@ I'm a **Fullstack Web Developer** with a keen interest in creating dynamic, user
 
 ### 💼 Professional Experience
 
+**Junior Software Developer**  
+_Mojaru, Panthapath, Dhaka_  
+**February 2025 - Present**
+
+
 **Frontend Developer**  
 _Bazar365, Gulshan-1, Dhaka_  
-**June 2024 - Present**
+**June 2024 - February 2025**
 
 - Developed complex fetchers and calculators to streamline data flow and enhance internal tools.
 - Improved security protocols and optimized the website for peak performance.
