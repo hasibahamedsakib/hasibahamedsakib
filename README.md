@@ -31,7 +31,7 @@ I'm a **Fullstack Web Developer** with a keen interest in creating dynamic, user
 
 ### 💼 Professional Experience
 
-**Junior Software Developer**  
+**Software Developer**  
 _Mojaru, Panthapath, Dhaka_  
 **February 2025 - Present**
 
