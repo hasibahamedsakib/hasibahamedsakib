@@ -10,7 +10,7 @@
 ---
 
 ### 🚀 About Me
-I'm a **Fullstack Web Developer** with a keen interest in creating dynamic, user-friendly web applications. Currently working as a **Junior Software Developer at Mojaru**, I specialize in **React**, **Next.js**, **Node.js**, and **MongoDB**, with hands-on experience in both frontend and backend technologies. My journey is fueled by a constant desire to learn and solve complex challenges.
+I'm a **Fullstack Web Developer** with a keen interest in creating dynamic, user-friendly web applications. Currently working as a **Software Developer at Mojaru**, I specialize in **React**, **Next.js**, **Node.js**, and **MongoDB**, with hands-on experience in both frontend and backend technologies. My journey is fueled by a constant desire to learn and solve complex challenges.
 
 - 💼 **Current Role:** Software Developer at Mojaru.
 - 🌱 **Learning:** Always expanding my skills, with a focus on **TypeScript**, **Authentication**, and **PostgreSQL**.
